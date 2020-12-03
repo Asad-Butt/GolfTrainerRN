@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Golf Trainer",
+    "slug": "GolfTrainer",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "icon": "./src/assets/GolfLogo.png",
+    "splash": {
+      "image": "./src/assets/GolfLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "requireFullScreen": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/GolfLogo.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./src/assets/favicon.png"
+    }
+  }
+}

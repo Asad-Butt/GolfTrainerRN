@@ -1,0 +1,26 @@
+const Images = {
+  Ball: require("./ball.png"),
+  Pitch: require("./Pitch.png"),
+  Hole: require("./hole.png"),
+  Logo: require("./GolfLogo.png"),
+  One: require("./1.png"),
+  Two: require("./2.png"),
+  Three: require("./3.png"),
+  Four: require("./4.png"),
+  Five: require("./5.png"),
+  Six: require("./6.png"),
+  Seven: require("./7.png"),
+  Eight: require("./8.png"),
+  Nine: require("./9.png"),
+  Ten: require("./10.png"),
+  OneOne: require("./11.png"),
+  OneTwo: require("./12.png"),
+  OneThree: require("./13.png"),
+  OneFour: require("./14.png"),
+  OneFive: require("./15.png"),
+  OneSix: require("./16.png"),
+  OneSeven: require("./17.png"),
+  Red: require("./red.png"),
+};
+
+export default Images;
